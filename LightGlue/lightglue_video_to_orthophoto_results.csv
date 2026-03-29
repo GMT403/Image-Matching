@@ -1,0 +1,2 @@
+FrameIndex,VideoTimeSec,Status,SearchMode,Latitude,Longitude,MapCenterXPx,MapCenterYPx,Score,TileId,MatchCount,InlierCount,InlierRatio,MeanMatchConfidence,ReprojectionErrorPx
+25200,420.0,localized,global,39.80544256,32.37832986,501.03,447.46,35.4190,tile_512px_0000,25,13,0.5200,0.1983,2.2191
